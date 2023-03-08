@@ -29,4 +29,3 @@ main:
 .data
 integer: .asciiz "Please enter an integer: \n"
 complement: .asciiz "The complement is: "
-newLine: .asciiz "\n" 
